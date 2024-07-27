@@ -1,0 +1,35 @@
+{
+  "providerId": 456,
+  "providerName": "FirstName LastName",
+  "availableSlots": [
+    {
+      "date": "2024-07-29",
+      "timeSlots": [
+        {
+          "availableTime": "8:00"
+        },
+        {
+          "availableTime": "8:30"
+        },
+        {
+          "availableTime": "9:45"
+        },
+        {
+          "availableTime": "11:00"
+        },
+        {
+          "availableTime": "11:30"
+        },
+        {
+          "availableTime": "1:15"
+        },
+        {
+          "availableTime": "2:30"
+        },
+        {
+          "availableTime": "4:15"
+        }
+      ]
+    }
+  ]
+}
